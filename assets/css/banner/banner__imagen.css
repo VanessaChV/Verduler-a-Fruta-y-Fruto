@@ -1,0 +1,9 @@
+.banner__imagen {
+    height: calc(100vh - 72px);
+    width: 100%;
+}
+
+/* - 100vh: hace que la imagen ocupe toda la dimensión de la pantalla.
+   - Le resto los 72px del banner para que hago el cálculo.
+*/
+ 
