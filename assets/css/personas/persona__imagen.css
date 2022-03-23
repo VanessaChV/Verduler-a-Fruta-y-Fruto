@@ -16,10 +16,10 @@
 }
 
 .persona__imagen {
-    background-size: cover;
     height: 300px;
-    width: 300px;
     background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
     border-radius: 100%;
+    width: 300px;
 }
